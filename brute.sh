@@ -1,9 +1,9 @@
 #!/bin/bash
 
-#Script Created By Henry
+#Script Created By Shell Script
 apt install python
 clear
-if figlet Henry Brute; then echo "Created by Henry"; fi
+if figlet Brute; then echo "Created by Shell Script"; fi
 read -p "Continuar com o processo y/n : " node
 if [ $node = "y" ];
 then
